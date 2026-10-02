@@ -6,8 +6,8 @@ AI News gives you the few stories that actually matter, in plain language, in ab
 [**⬇ Download the latest APK**](https://github.com/Mlakshay01/ai-news-app/releases/latest) · Android only · Free · Early beta
 
 <p>
-  <img src="screenshots/briefing.png" width="260" alt="Daily briefing with Today in AI audio card">
-  <img src="screenshots/story.png" width="260" alt="Story page with Explain it simply">
+  <img src="screenshots/briefing.jpg" width="260" alt="Daily briefing with Today in AI audio card">
+  <img src="screenshots/story.jpg" width="260" alt="Story page with Explain it simply">
 </p>
 
 ## Who it's for
